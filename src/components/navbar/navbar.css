@@ -1,0 +1,41 @@
+header {
+    padding: 20px 52px;
+    color: black;
+}
+
+header h2 {
+    margin: 0;
+    color: black;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 51px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 50px;
+}
+
+nav ul li a{
+    color: black;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 0.542px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
